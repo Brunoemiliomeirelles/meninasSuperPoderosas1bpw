@@ -1,3 +1,4 @@
-#  Projeto Serve Horrores
+#  Musica PearFy
 
-> Integrantes: Bruninhe, Xandinhe e Dudinhe
+> Paginas obrigatorias:
+> Home; Bruno, Carlem, Maria; Instrumentos; Gêneros Musicais; Contato; Localização.
