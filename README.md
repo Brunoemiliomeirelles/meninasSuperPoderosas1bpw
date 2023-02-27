@@ -1,3 +1,3 @@
 #  Projeto Serve Horrores
 
-> Status do projeto: ser gostosas
+> Integrantes: Bruninhe, Xandinhe e Dudinhe
