@@ -7,7 +7,6 @@ body{
     padding: 10px;
 }
 
-
 .topo{
     padding: 30px;
     text-align: center;
@@ -64,4 +63,10 @@ body{
     text-align: center;
     padding: 15px 10px;
     text-decoration: none;
+}
+
+.rodape a:hover{
+    background-color:rgb(167, 167, 167);
+    color:white;
+    border: black solid 1px;
 }
