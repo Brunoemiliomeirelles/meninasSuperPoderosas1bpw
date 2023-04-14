@@ -70,3 +70,7 @@ body{
     color:white;
     border: black solid 1px;
 }
+
+.lblcheckbox{
+    display: inline-block;
+}
